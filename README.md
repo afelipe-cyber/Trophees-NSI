@@ -5,7 +5,7 @@
 Le dossier technique doit contenir les éléments précisés ci-dessous, en respectant cette même nomenclature :
 
 - un fichier README.md,
-- un fichier licence.txt,
+- un fichier ~licence.txt~ LICENSE,
 - un répertoire sources,
 - un répertoire docs,
 - un fichier requirements.txt,
