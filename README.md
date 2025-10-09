@@ -8,9 +8,9 @@ Le dossier technique doit contenir les éléments précisés ci-dessous, en resp
 - [X] un fichier ~licence.txt~ LICENSE,
 - [X] un répertoire sources,
 - [X] un répertoire docs,
-- [ ] un fichier requirements.txt, (`pip freeze > requirements.txt` sous POSIX Compatible)
-- [ ] un répertoire data (optionnel),
-- [ ] un répertoire test (optionnel),
+- [X] un fichier requirements.txt, (`pip freeze > requirements.txt` sous POSIX Compatible)
+- [X] un répertoire data (optionnel),
+- [X] un répertoire test (optionnel),
 - [ ] un répertoire exemples (optionnel),
 - [ ] un fichier presentation.pdf.
 
