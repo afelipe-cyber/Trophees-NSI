@@ -3,7 +3,6 @@
 ## Documenter son projet
 
 Le dossier technique doit contenir les éléments précisés ci-dessous, en respectant cette même nomenclature :
-
 - [X] un fichier README.md,
 - [X] un fichier ~licence.txt~ LICENSE,
 - [X] un répertoire sources,
