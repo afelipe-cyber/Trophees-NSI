@@ -11,7 +11,7 @@ Le dossier technique doit contenir les éléments précisés ci-dessous, en resp
 - [X] un répertoire data (optionnel),
 - [X] un répertoire test (optionnel),
 - [ ] un répertoire exemples (optionnel),
-- [ ] un fichier presentation.pdf.
+- [ ] un fichier presentation.md.
 
 
 Le dossier technique est à déposer sur la forge des communs numériques éducatifs.
